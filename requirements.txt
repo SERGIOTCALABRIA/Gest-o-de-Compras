@@ -1,0 +1,8 @@
+Django>=4.2
+pandas
+openpyxl
+django-import-export
+django-cors-headers
+django-environ
+gunicorn
+psycopg2-binary
